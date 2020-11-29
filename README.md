@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Deepcs233's github stats](https://github-readme-stats.vercel.app/api?username=deepcs233&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepcs233)](https://github.com/anuraghazra/github-readme-stats)
+# [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepcs233)](https://github.com/anuraghazra/github-readme-stats)
