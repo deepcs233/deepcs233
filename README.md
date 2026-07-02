@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Deepcs233's github stats](https://github-readme-stats.vercel.app/api?username=deepcs233&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![deepcs233's GitHub stats](https://github-stats-extended.vercel.app/api?username=deepcs233&theme=radical&show_icons=true)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deepcs233)](https://github.com/anuraghazra/github-readme-stats)
